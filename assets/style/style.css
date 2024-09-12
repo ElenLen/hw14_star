@@ -1,0 +1,30 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/assets/img/cinema.jpeg);
+}
+
+.name {
+  text-decoration-line: overline;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.main__title2 {
+  font-style: italic;
+  font-size: 2em;
+  text-decoration-line: underline;
+}
+
+.main__top {
+  font-family: cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.career {
+  color: mediumvioletred;
+}
